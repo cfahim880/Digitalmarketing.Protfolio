@@ -1,0 +1,41 @@
+#header{
+    display: flex;
+    margin: 10%;
+    background-color: bisque;
+    padding: 10%;
+}
+body{
+    font-family: sans-serif;
+    margin: 0%;
+}
+.welpart{
+    color:blueviolet;
+
+}
+h1{
+    font-size: 50px;
+}
+.text-color{
+    color: orange;
+}
+h2{
+    color: rgb(11, 229, 236);
+}
+.java{
+    color: rgb(15, 226, 15);
+}
+.link{
+    padding: 10px 40px;
+    text-decoration: none;
+    background-image: linear-gradient(red, yellow);
+    border-radius: 10px;
+}
+
+.header-part img{
+    width: 100%;height: fit-content;
+
+}
+.header-part{
+    width: 50%;
+    padding-left: 5%;
+}
